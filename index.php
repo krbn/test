@@ -9,7 +9,6 @@
 	<?php
 		echo '<h2>HELLO WORLD!<h2>';
 		echo 'new line';
-		echo 'another line';
 	?>
 </body>
 </html>
